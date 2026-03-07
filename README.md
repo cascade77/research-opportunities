@@ -15,6 +15,8 @@ Open to contributions! If you know of programs that accept international student
 | [UTRIP](https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/) | University of Tokyo | Japan | Multiple | Jan | Fully funded |
 | [FUSEP](https://fusep.ustc.edu.cn/fusep/) | USTC | China | Multiple | April| International students welcome |
 | [National Internship Pilot Program](https://iipp.tw/) | Various Institutions | Taiwan | Multiple | Feb | |
+| [GRIPS](http://grips.zju.edu.cn/apply/main.htm) | Zhejiang, USTC, Fudan, Nanjing Universities | China | STEM Research | Mar | Fully funded; recommendation letter + 3-min intro video required |
+| [HENNGE Global Internship Program (GIP)](https://recruit.hennge.com/en/gip/) | HENNGE K.K. | Tokyo, Japan | Software Engineering (focus on web) | Not specified; FCFS probably, apply ASAP | Airfare, monthly subsidy, insurance covered; coding challenge required; hiring pipeline |
 
 ### Europe
 
@@ -27,6 +29,7 @@ Open to contributions! If you know of programs that accept international student
 | [Aalto AScI International Summer Research Programme](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Aalto University | Finland | CS, Engineering, Science | Jan 7-31, 2026 | 12 weeks (Jun-Aug), 2000+ EUR/month, travel bonus, 50+ positions |
 | [ETH Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | ETH Zurich | Switzerland | CS, ML, Robotics, Theory, Security | December | 2 months summer, open to all students worldwide except ETH students |
 | [Sanger Prize Competition](https://www.sanger.ac.uk/about/study/the-sanger-prize-competition-2026/) | Wellcome Sanger Institute | UK | Genomics, Biosciences | Jan 9, 2026 | 3 months, all expenses covered (travel, visa, accommodation, food), **only for students from low/middle income countries** |
+| [INSAIT SURF](https://insait.ai/surf/) | INSAIT | Sofia, Bulgaria | CS and AI Research | Mar | €1,500/mo stipend + accommodation + travel; paper co-authorship expected |
 
 ### North America
 
@@ -50,7 +53,7 @@ Open to contributions! If you know of programs that accept international student
 | [SFI Undergraduate Complexity Research](https://santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute | Complex Systems | Jan | Unique interdisciplinary program |
 | [RC-Trust Internship Program](https://rc-trust.ai/news/news-detail/apply-for-the-rc-trust-internship-program-2026) | Various | AI, Trustworthy Computing | December | 2026 cycle |
 | [Young Scientist Program](https://bmsis.org/ysp/) | BMSIS | Space, Biology | April | Research mentorship (online) |
-
+| [Argentina Internship Program](https://argentinainternshipprogram.com/#the-program) | Insignia Talento / Racana International Group | Buenos Aires, Argentina | Energy, Engineering, Tech, Sales, Finance | Unspecified, apply ASAP | Industry-based; flights, accommodation, meals, insurance covered |
 
 
 ---
