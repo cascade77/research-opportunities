@@ -13,7 +13,7 @@ Open to contributions! If you know of programs that accept international student
 | Program | Institution | Location | Fields | Deadline | Notes |
 |---------|------------|----------|--------|----------|-------|
 | [UTRIP](https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/) | University of Tokyo | Japan | Multiple | Jan | Fully funded |
-| [FUSEP](https://fusep.ustc.edu.cn/fusep/) | USTC | China | Multiple | April| International students welcome |
+| [FUSEP](https://fusep.ustc.edu.cn/fusep/) | USTC | China | Multiple | March | International students welcome |
 | [National Internship Pilot Program](https://iipp.tw/) | Various Institutions | Taiwan | Multiple | Feb | |
 | [GRIPS](http://grips.zju.edu.cn/apply/main.htm) | Zhejiang, USTC, Fudan, Nanjing Universities | China | STEM Research | Mar | Fully funded; recommendation letter + 3-min intro video required |
 | [HENNGE Global Internship Program (GIP)](https://recruit.hennge.com/en/gip/) | HENNGE K.K. | Tokyo, Japan | Software Engineering (focus on web) | Not specified; FCFS probably, apply ASAP | Airfare, monthly subsidy, insurance covered; coding challenge required; hiring pipeline |
@@ -25,7 +25,11 @@ Open to contributions! If you know of programs that accept international student
 | [ITRI International Internship Program](https://itri.applytojob.com/apply) | Industrial Technology Research Institute | Taiwan (Hsinchu) | Electronics, EDA, CS, Robotics, Computer Vision, AI, Autonomous Systems | Rolling / open now | Duration varies by position; multiple labs (EOSL, ICL, MMSL, SSTC, ISTI); projects in circuits, robotics, ML, autonomous vehicles |
 | [Westlake University Summer Research Internship](https://en.westlake.edu.cn/admissions/summer_sessions/summer_graduate_research_internship/) | Westlake University | China (Hangzhou) | Science, Engineering, Life Sciences, Medicine, CS, AI | **Apr 14, 2026** | Jul 13–Aug 14, 2026 (5 weeks); ~100 placements across 50+ projects; international BSc/MS students or recent grads (excl. Chinese nationals); free housing, 1,760 RMB living allowance |
 | [NUS SoC Summer Research Internship (SRI)](https://www.comp.nus.edu.sg/programmes/pg/workshops/res-internship/) | NUS School of Computing | Singapore | Computer Science, Information Systems, AI, Data Science | Jan | 10 weeks starting May; UG, MS, recent grads, early-career faculty (no PhD); SGD 500/week (total SGD 5,000); priority to underrepresented countries |
-
+| [SJTU Summer Research Program](https://global.sjtu.edu.cn/) | Shanghai Jiao Tong University | China (Shanghai) | All STEM (204 projects) | **May 30, 2026** | Jul–Aug; large program; international UG/MS |
+| [HKU CDS Research Internship](https://www.cs.hku.hk/rintern/) | University of Hong Kong | Hong Kong | CS, AI, Data Science | **May 31, 2026** | Summer; competitive; international undergrads |
+| [HKUST Undergraduate Research](https://summercampus.hkust.edu.hk/) | HKUST | Hong Kong | All STEM | ~Mar 20, 2026 (visa docs) | Summer; international UG |
+| [RIKEN IMS Internship](https://www.ims.riken.jp/) | RIKEN Institute of Medical Science | Japan | Medical Sciences, Life Sciences | Rolling | Contact labs directly |
+| [KAUST VSRP](https://vsrp.kaust.edu.sa/) | King Abdullah University of Science & Technology | Saudi Arabia | All STEM | Rolling year-round | 2–6 months; 3rd/4th yr UG & MS; GPA ≥3.5; flights + housing + stipend |
 
 ### Europe
 
@@ -45,6 +49,7 @@ Open to contributions! If you know of programs that accept international student
 | [EMBL Undergraduate Internships](https://www.embl.org/about/info/undergraduates/how-to-apply/) | EMBL | Germany (Heidelberg) + Hamburg, Barcelona, Rome, Cambridge (Hinxton), Grenoble | Life Sciences, Biology, Chemistry, Physics, Bioinformatics, Medicine, Engineering | Rolling (contact labs directly) | Flexible duration; email group leaders directly; stipend at PI's discretion |
 | [EMBL TechDev Internship Programme](https://www.embl.org/about/info/scientific-visitor-programme/fellowships/techdev/#evaluation) | EMBL | Germany (Heidelberg) + other sites | Engineering, Physics, Maths, CS, Microscopy, Instrumentation | Rolling (unfilled positions) | For BSc/MSc students or unaffiliated recent graduates; pre-doctoral; hands-on tech development |
 | [BSC International Summer HPC Internship Programme](https://bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) | Barcelona Supercomputing Center (BSC-CNS) | Spain (Barcelona) | HPC, Computer Science, Earth Sciences, Life Sciences, AI, Computational Engineering | **Mar 23, 2026**| Jun–Sep 2026, up to 10 weeks; 8–16 positions; any nationality; currently enrolled UG only (no finished graduates); €1,416.67/mo stipend + €350/mo mobility allowance for non-Barcelona residents; requires university internship agreement |
+| [CRG Barcelona Internship](https://www.crg.eu) | Centre for Genomic Regulation | Spain (Barcelona) | Life Sciences, Genomics, Bioinformatics | Rolling | Contact labs directly; flexible duration |
 
 ### North America
 
