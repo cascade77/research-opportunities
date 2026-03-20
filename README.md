@@ -50,8 +50,10 @@ Open to contributions! If you know of programs that accept international student
 | [EMBL TechDev Internship Programme](https://www.embl.org/about/info/scientific-visitor-programme/fellowships/techdev/#evaluation) | EMBL | Germany (Heidelberg) + other sites | Engineering, Physics, Maths, CS, Microscopy, Instrumentation | Rolling (unfilled positions) | For BSc/MSc students or unaffiliated recent graduates; pre-doctoral; hands-on tech development |
 | [BSC International Summer HPC Internship Programme](https://bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) | Barcelona Supercomputing Center (BSC-CNS) | Spain (Barcelona) | HPC, Computer Science, Earth Sciences, Life Sciences, AI, Computational Engineering | **Mar 23, 2026**| Jun–Sep 2026, up to 10 weeks; 8–16 positions; any nationality; currently enrolled UG only (no finished graduates); €1,416.67/mo stipend + €350/mo mobility allowance for non-Barcelona residents; requires university internship agreement |
 | [CRG Barcelona Internship](https://www.crg.eu) | Centre for Genomic Regulation | Spain (Barcelona) | Life Sciences, Genomics, Bioinformatics | Rolling | Contact labs directly; flexible duration |
+| [RC Trust Internship Program](https://rc-trust.ai/career/internship-program) | Research Center Trustworthy Data Science and Security | Germany (Dortmund/Bochum/Duisburg) | AI, Trustworthy ML, IT Security, Statistics, Psychology | Dec 31, 2025 | Up to 3 months (~12–14 weeks); BSc, MSc, PhD, postdocs, professionals; living, housing, travel fully covered; watch for 2027 cycle |
+| [Einstein Forum Fellowship](https://www.einsteinforum.de/en/about/fellowship/) | Einstein Forum | Germany (Caputh/Potsdam-Berlin area) | Humanities, Social Sciences, Natural Sciences — interdisciplinary project in a *different* field from your own | **May 15, 2026** | 6 months; under 35; €10,000 stipend + travel reimbursement; must reside in Einstein's garden cottage in Caputh; proposed project must differ significantly from prior work |
 
-### North America
+### North & South America
 
 | Program | Institution | Location | Fields | Deadline | Notes |
 |---------|------------|----------|--------|----------|-------|
@@ -64,16 +66,14 @@ Open to contributions! If you know of programs that accept international student
 | [Rutgers Aresty RISE](https://aresty.rutgers.edu/programs-funding/the-research-intensive-summer-experience) | Rutgers | USA | Multiple | Feb | |
 | [ASU SURI](https://students.engineering.asu.edu/graduate/research/suri/) | Arizona State | USA | Engineering | Feb | |
 | [WashU McKelvey ISRI (International Student Research Internship)](https://engineering.washu.edu/academics/undergraduate-research/international-student-research-internship-program.html) | Washington University in St. Louis | USA (St. Louis, MO) | Biomedical Eng, CS/AI, Electrical Eng, Chemical Eng, Mech Eng, Materials, Synthetic Biology | Nov| May–Aug 2026, 10 weeks; penultimate-yr international UG only (non-US citizens); USD 3,000 stipend + free housing + transit pass |
+| [SFI Undergraduate Complexity Research (UCR)](https://santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute | USA (Santa Fe, NM) | Complex Systems, Interdisciplinary (Physics, Biology, Social Sciences, Math) | ~Jan (check annually) | May 31–Aug 8, 2026; 10 weeks residential; $7,000 stipend + free housing, meals, travel; open to all nationalities |
+| [Argentina Internship Program](https://argentinainternshipprogram.com/) | Insignia Talento / Racana International Group | Argentina (Buenos Aires) | Engineering, Energy, Technology/AI/Data, Finance, Sales, Industrial Operations | Rolling, apply ASAP | Jun 15–Aug 14, 2026; industry-based (Honeywell, Tenaris, Techint, Trafigura etc.); flights, accommodation, meals, insurance all covered; unpaid but fully funded |
 
-### Special Programs
-
-| Program | Type | Fields | Deadline | Notes |
-|---------|------|--------|----------|-------|
-| [Polymath Jr](https://geometrynyc.wixsite.com/polymathreu) | Remote/Virtual | Mathematics | April | Undergrads with experience in writing proofs |
-| [SFI Undergraduate Complexity Research](https://santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute | Complex Systems | Jan | Unique interdisciplinary program |
-| [RC-Trust Internship Program](https://rc-trust.ai/news/news-detail/apply-for-the-rc-trust-internship-program-2026) | Various | AI, Trustworthy Computing | December | 2026 cycle |
-| [Young Scientist Program](https://bmsis.org/ysp/) | BMSIS | Space, Biology | April | Research mentorship (online) |
-| [Argentina Internship Program](https://argentinainternshipprogram.com/#the-program) | Insignia Talento / Racana International Group | Buenos Aires, Argentina | Energy, Engineering, Tech, Sales, Finance | Unspecified, apply ASAP | Industry-based; flights, accommodation, meals, insurance covered |
+### Remote
+| Program | Institution | Location | Fields | Deadline | Notes |
+|---------|------------|----------|--------|----------|-------|
+| [Polymath Jr](https://geometrynyc.wixsite.com/polymathreu) | CUNY / Various US universities | Remote (US timezone) | Mathematics (Combinatorics, Number Theory, Topology, Algebra, ML for Math) | **Apr 8, 2026** | Jun 15–Aug 9, 2026; online collaborative research; proof-writing experience required; no funding but publication credit + strong rec letters possible; open internationally |
+| [BMSIS Young Scientist Program (YSP)](https://bmsis.org/ysp/) | Blue Marble Space Institute of Science | Remote (worldwide) | Astrobiology, Earth & Space Science, Science Communication, Ethics | ~Apr (check annually) | Jun 1–Aug 31, 2026; part-time remote; most projects unpaid; pre-grad students and recent UG grads; open internationally |
 
 
 ---
