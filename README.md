@@ -93,6 +93,7 @@ Found a program that accepts international students? Please submit a PR with:
 - Deadlines are approximate and vary year to year so, always check official websites
 - Most programs require you to be currently enrolled as an undergraduate
 - Some programs may have citizenship restrictions despite accepting international students, read carefully
+- Outside formal programs, you can also email professors directly; the free [ProfScout Professor Directory](https://profscout.com/professors/directory) lists professors by field and country
 
 ---
 
